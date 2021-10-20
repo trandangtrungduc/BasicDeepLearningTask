@@ -31,7 +31,7 @@
         - Non-Negative Factorization
 3. Image processing project: Exploratory data analysis and fruit classification with Convolution and LSTM (Fruit_Classification.ipynb).
 4. Natural language processing project: Exploratory data analysis, pre-process, apply sequence to sequence and BERT models to data(Watson_project.ipynb).
-
+5. Natural language processing project: Rule-based chat bot with TD-IDF and Bag of words(Chatbot.ipynb).
 ### Maintainers
 * Trần Đặng Trung Đức ([Profile](https://github.com/trandangtrungduc))
 
