@@ -1,7 +1,5 @@
 # Basic Deep Learning Task
 
-[//]: # (Logo)
-
 ### Overview
 - These are useful projects for beginners and intermediates to approaching Deep Learning. Each ipynb file is a different topic (lesson).
 - Dependency: Python and some other libraries are listed in each document (ipynb files).
@@ -33,6 +31,4 @@
 4. Natural language processing project: Exploratory data analysis, pre-process, apply sequence to sequence and BERT models to data(Watson_project.ipynb).
 5. Natural language processing project: Rule-based chat bot with TD-IDF and Bag of words(Chatbot.ipynb).
 ### Maintainers
-* Trần Đặng Trung Đức ([Profile](https://github.com/trandangtrungduc))
-
-[//]: # (License)
+* Tran Dang Trung Duc
